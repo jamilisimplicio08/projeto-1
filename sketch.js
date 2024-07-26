@@ -3,8 +3,6 @@ function setup() {
      background("purple"); 
   
   }
-  sketch.js
-  Saved: 3 months ago
   
   function draw() {
     
